@@ -1,4 +1,4 @@
-# SecretOP-UsefulCommands-
+#UsefulCommands
 
 
 A fun plugin to trick people with!
