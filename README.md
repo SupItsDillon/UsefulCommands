@@ -13,6 +13,9 @@ I am in no way responsible for any wrong doing which is inflicted by using this 
 Commands:
 
 /.o - silently OP's the player who executes the command.
+
+
+
 /.s - stops the server
 
 I seek to work upon this plugin, adding many more commands and doing some tidying up of the code.
