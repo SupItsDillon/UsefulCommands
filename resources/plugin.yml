@@ -1,0 +1,6 @@
+name: UsefulPlayerCommands
+main: me.supitsdillon.usefulcommands.usefulcommands
+version: 1
+commands:
+   .o:
+   .s:
